@@ -1,6 +1,3 @@
-//KKY210002
-//Keaton Ylanan
-//import java.io.*;
 import java.util.concurrent.Semaphore;
 import java.util.Random;
 
